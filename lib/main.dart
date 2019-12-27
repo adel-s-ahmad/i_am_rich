@@ -13,9 +13,9 @@ void main() {
       ),
       body: Center(
         child: Image(
-          image: NetworkImage(
-              'https://i.ytimg.com/vi/BHACKCNDMW8/maxresdefault.jpg'),
-//          image: AssetImage('images/test.jpg'),
+//          image: NetworkImage(
+//              'https://i.ytimg.com/vi/BHACKCNDMW8/maxresdefault.jpg'),
+          image: AssetImage('images/rich.jpg'),
         ),
       ),
     )),
